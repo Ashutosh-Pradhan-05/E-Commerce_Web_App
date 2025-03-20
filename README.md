@@ -37,25 +37,33 @@ This comprehensive e-commerce web application is designed to provide a seamless 
 
 ## 📸 Project Screenshots
 
-### Signup Page
+### 1️⃣ Signup Page
 The signup page allows users to create an account by providing their profile picture, name, email, password, and confirming their password. Once all fields are filled correctly, the user can click the Signup button to register. The form ensures validation and security, including password encryption before storage.
 
 ![project-signup](https://github.com/user-attachments/assets/e47c8a56-eb78-43ca-9e69-b928d8ea4600)
 
-### Home Page
+
+
+### 2️⃣ Home Page
 The home page showcases featured products, categories, and offers a seamless browsing experience for users. It is designed with a responsive UI and allows users to navigate easily through different sections.
 
 ![project_banner](https://github.com/user-attachments/assets/fd715ea8-608e-4502-b959-2a0de8af7ce3)
 
-### Products Page
+
+
+### 3️⃣ Products Page
 The product details page provides users with in-depth information about a selected product, including images, descriptions, pricing, and an Add to Cart button.
 
 ![project-img1](https://github.com/user-attachments/assets/affd8d58-0ef4-41a3-9bac-7c0a8d3ada0d)
 
-### Cart Page
+
+
+### 4️⃣ Cart Page
 The cart page displays all the products a user has added to their shopping cart. Users can update quantities, remove items, and proceed to checkout.
 
 ![project-img2](https://github.com/user-attachments/assets/5496c52a-9bcd-4c85-958d-831b1690fd08)
+
+
 
 ## 🏗️ Installation and Setup
 
