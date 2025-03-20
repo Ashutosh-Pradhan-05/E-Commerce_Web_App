@@ -1,5 +1,7 @@
 # E-Commerce Web Application
 
+![project_banner](https://github.com/user-attachments/assets/0c9434a3-154c-433b-be85-2a0dbbb55d08)
+
 ## 📌 Overview
 This is a full-stack e-commerce web application built with modern web technologies. The application allows users to browse products, add them to the cart, and proceed to checkout. It features user authentication, product management, and order processing.
 
