@@ -1,14 +1,16 @@
-import React from 'react'
+import React from "react";
 
 const Footer = () => {
   return (
-    <footer className='bg-slate-200 mt-[63px]'>
-      <div className='container mx-auto p-4'>
-       <p className='text-center font-bold' title="Youtube Channel">Designed and Developed by Ashutosh 💝</p>
+    <footer className="bg-slate-200 mt-[63px]">
+      <div className="container mx-auto p-4">
+        <p className="text-center font-bold" title="Youtube Channel">
+          Designed and Developed by Ashutosh Pradhan.💝
+        </p>
       </div>
     </footer>
-  )
-}
+  );
+};
 
 export default Footer;
 
